@@ -55,8 +55,8 @@ bun.js really simplifies the process of using a database.
 
 Output of base.db
 
-![output-1](Output-1.png)
+![output-1](Output-1.webp)
 
 Output of select statement
 
-![output-2](Output-2.png)
+![output-2](Output-2.webp)
